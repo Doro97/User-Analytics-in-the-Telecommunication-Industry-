@@ -23,6 +23,7 @@ The analysis is conducted in 4 different stages:
 
 ## User Overview analysis
 Conducted EDA on the dataset in the following steps: 
+
   ○	Analyze the basic metrics (mean, median, etc) in the Dataset.
   
   ○	Conduct a Non-Graphical Univariate Analysis by computing dispersion parameters for each quantitative variable. 
@@ -38,12 +39,14 @@ Conducted EDA on the dataset in the following steps:
   ○	Dimensionality Reduction – perform a principal component analysis 
   
 Obtained the following:
+
 ●	Identified the top 10 handsets used by the customers.
 
 ●	Identified the top 3 handset manufacturers
 
 ## User Engagement Analysis
 Tracked the user’s engagement using the following engagement metrics: 
+
 ●	sessions frequency 
 
 ●	the duration of the session 
