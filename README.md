@@ -3,7 +3,7 @@
 # Business Need
 
 An investor is interested in purchasing TellCo, an existing mobile service provider.TellCo’s current owners have been willing to share their financial information but have never
-employed anyone to look at their data that is generated automatically by their systems. The wants a report that includes an analysis of opportunities for growth and 
+employed anyone to look at their data that is generated automatically by their systems. The Company wants a report that includes an analysis of opportunities for growth and 
 make a recommendation on whether TellCo is worth buying or selling. This is done by analyzing a telecommunication dataset that contains useful information about the customers & their activities on the network. 
 Insights are delivered through an easy to use web based dashboard and a written report. 
 
